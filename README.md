@@ -1,4 +1,4 @@
-# Python Programming
+## Python Programming
 
 Here you can find the labs for our CodingNomads online Python Programming course.
 
@@ -43,3 +43,4 @@ Check out how to [create a branch](https://help.github.com/articles/creating-and
 
 
 Keep learning! :)
+# python-labs
